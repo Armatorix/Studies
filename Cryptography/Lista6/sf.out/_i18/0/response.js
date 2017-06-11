@@ -1,0 +1,1 @@
+var res = {'data':'HTTP/1.1 200 Partial Content\x0aDate: Mon, 19 Dec 2016 01:06:02 GMT\x0aServer: Apache/2.4.18 (Ubuntu)\x0aSet-Cookie: pmaCookieVer=4; expires=Wed, 18-Jan-2017 01:06:02 GMT; Max-Age=2592000; path=/phpmyadmin/; HttpOnly\x0a\x0a[...truncated...]\x0a'}

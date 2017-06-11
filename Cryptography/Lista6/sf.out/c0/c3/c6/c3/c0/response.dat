@@ -1,0 +1,18 @@
+HTTP/1.1 200 Partial Content
+Date: Mon, 19 Dec 2016 01:08:37 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Range: bytes 0-178/179
+Content-Length: 179
+Keep-Alive: timeout=5, max=66
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<script type="text/javascript">
+if (typeof configInlineParams === "undefined" || !Array.isArray(configInlineParams)) configInlineParams = [];
+configInlineParams.push(function() {
+;
+});
+if (typeof configScriptLoaded !== "undefined" && configInlineParams) loadInlineConfig();
+</script>

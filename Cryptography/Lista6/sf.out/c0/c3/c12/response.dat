@@ -1,0 +1,107 @@
+HTTP/1.1 200 Partial Content
+Date: Mon, 19 Dec 2016 01:06:07 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Last-Modified: Fri, 29 Jan 2016 13:55:32 GMT
+ETag: "4bd-52a79637b7d00-gzip"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Range: bytes 0-347/348
+Content-Length: 348
+Keep-Alive: timeout=5, max=51
+Connection: Keep-Alive
+Content-Type: text/css
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.hide {
+    display: none;
+}
+
+body, table, th, td {
+    color:             #000;
+    background-color:  #fff;
+}
+
+img {
+    border: 0;
+}
+
+table, th, td {
+    border: .1em solid #000;
+}
+
+table {
+    border-collapse:   collapse;
+    border-spacing:    0;
+}
+
+th, td {
+    padding:           0.2em;
+}
+
+th {
+    font-weight:       bold;
+    background-color:  #e5e5e5;
+}
+
+th.vtop, td.vtop {
+    vertical-align: top;
+}
+
+th.vbottom, td.vbottom {
+    vertical-align: bottom;
+}
+
+@media print {
+    .print_ignore {
+        display: none;
+    }
+
+    .nowrap {
+        white-space: nowrap;
+    }
+
+    .hide {
+        display: none;
+    }
+
+    body, table, th, td {
+        color:             #000;
+        background-color:  #fff;
+    }
+
+    img {
+        border: 0;
+    }
+
+    table, th, td {
+        border: .1em solid #000;
+    }
+
+    table {
+        border-collapse:   collapse;
+        border-spacing:    0;
+    }
+
+    th, td {
+        padding:           0.2em;
+    }
+
+    th {
+        font-weight:       bold;
+        background-color:  #e5e5e5;
+    }
+
+    th.vtop, td.vtop {
+        vertical-align: top;
+    }
+
+    th.vbottom, td.vbottom {
+        vertical-align: bottom;
+    }
+}
+
+; pma1

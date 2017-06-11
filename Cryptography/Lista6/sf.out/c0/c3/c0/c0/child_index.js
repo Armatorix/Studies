@@ -1,0 +1,5 @@
+var child = [
+  { 'dupe': false, 'type': 4, 'name': 'hint', 'dir': 'c0', 'linked': 1, 'url': 'http://localhost/phpmyadmin/codemirror/addon/hint/', 'fetched': true, 'code': 404, 'len': 306, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'iso-8859-1', 'missing': true, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x49ab94c7 },
+  { 'dupe': false, 'type': 4, 'name': 'lint', 'dir': 'c1', 'linked': 1, 'url': 'http://localhost/phpmyadmin/codemirror/addon/lint/', 'fetched': true, 'code': 404, 'len': 306, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'iso-8859-1', 'missing': true, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x8e6598a4 },
+  { 'dupe': false, 'type': 4, 'name': 'runmode', 'dir': 'c2', 'linked': 1, 'url': 'http://localhost/phpmyadmin/codemirror/addon/runmode/', 'fetched': true, 'code': 404, 'len': 309, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'iso-8859-1', 'missing': true, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x50021 }
+];

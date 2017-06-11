@@ -1,0 +1,38 @@
+HTTP/1.1 200 Partial Content
+Date: Mon, 19 Dec 2016 01:05:53 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Range: bytes 0-640/641
+Content-Length: 641
+Keep-Alive: timeout=5, max=46
+Connection: Keep-Alive
+Content-Type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /bank</title>
+ </head>
+ <body>
+<h1>Index of /bank</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="account.php">account.php</a></td><td align="right">2016-11-27 21:12  </td><td align="right">315 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="db.php">db.php</a></td><td align="right">2016-11-27 23:31  </td><td align="right">1.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="form.php">form.php</a></td><td align="right">2016-11-28 01:38  </td><td align="right">843 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="form_next.php">form_next.php</a></td><td align="right">2016-11-28 08:04  </td><td align="right">1.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="history.php">history.php</a></td><td align="right">2016-11-27 21:41  </td><td align="right">289 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="login.php">login.php</a></td><td align="right">2016-11-27 21:04  </td><td align="right">579 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="logout.php">logout.php</a></td><td align="right">2016-11-27 21:07  </td><td align="right">158 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="logtry.php">logtry.php</a></td><td align="right">2016-11-27 21:06  </td><td align="right">448 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="make_transs.php">make_transs.php</a></td><td align="right">2016-11-27 23:33  </td><td align="right">314 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="register.php">register.php</a></td><td align="right">2016-11-27 21:05  </td><td align="right">484 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="registertry.php">registertry.php</a></td><td align="right">2016-11-27 21:06  </td><td align="right">478 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.18 (Ubuntu) Server at localhost Port 80</address>
+</body></html>
+*ÒFë[ü:ç

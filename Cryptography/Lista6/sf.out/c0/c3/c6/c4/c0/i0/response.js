@@ -1,0 +1,1 @@
+var res = {'data':'HTTP/1.1 200 Partial Content\x0aDate: Mon, 19 Dec 2016 01:10:16 GMT\x0aServer: Apache/2.4.18 (Ubuntu)\x0aContent-Range: bytes 0-13/14\x0aContent-Length: 14\x0aKeep-Alive: timeout=5, max=85\x0aConnection: Keep-Alive\x0aContent-Type: text/html; charset=UTF-8\x0a\x0a\x3cli\x3e\x0a    \x3c/li\x3e'}

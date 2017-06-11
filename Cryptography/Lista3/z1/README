@@ -1,0 +1,9 @@
+How it works ?
+./program.sh d AES CBC keystore.ks no1 crypted_sample decryped_sample
+
+Decrypts crypred_sample into decrypted_sample with aes-256-cbc with password from keystore.ks with alias no1, password for keystore.ks is "password".
+
+./program.sh e AES CBC keystore.ks no1 decryped_sample crypted_sample 
+As before but encrypts decrypted into crypted. 
+
+Program will show if password used for decrypting is wrong.

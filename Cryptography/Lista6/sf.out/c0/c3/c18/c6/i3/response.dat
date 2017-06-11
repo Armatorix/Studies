@@ -1,0 +1,6 @@
+HTTP/1.1 200 Partial Content
+Date: Mon, 19 Dec 2016 01:32:57 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Set-Cookie: pmaCookieVer=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/phpmyadmin/
+
+[...truncated...]

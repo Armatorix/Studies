@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Mon, 19 Dec 2016 01:06:04 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, max-age=10800
+Last-Modified: Fri, 29 Jan 2016 13:55:32 GMT
+Content-Description: File Transfer
+Content-Disposition: attachment; filename="phpMyAdmin.webapp"
+Content-Transfer-Encoding: binary
+Keep-Alive: timeout=5, max=91
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/webapp
+
+PK

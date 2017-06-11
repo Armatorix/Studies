@@ -1,0 +1,12 @@
+HTTP/1.1 200 Partial Content
+Date: Mon, 19 Dec 2016 01:06:02 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Set-Cookie: pmaCookieVer=4; expires=Wed, 18-Jan-2017 01:06:02 GMT; Max-Age=2592000; path=/phpmyadmin/; HttpOnly
+Set-Cookie: phpMyAdmin=boib1dgmvv7v4o1ok6b3t1madkcgl6fg; path=/phpmyadmin/; HttpOnly
+Expires: Mon, 19 Dec 2016 02:06:02 +0100
+Cache-Control: no-store, no-cache, must-revalidate,  pre-check=0, post-check=0, max-age=0
+Last-Modified: Mon, 19 Dec 2016 02:06:02 +0100
+Set-Cookie: pma_lang=en; expires=Wed, 18-Jan-2017 01:06:02 GMT; Max-Age=2592000; path=/phpmyadmin/; HttpOnly
+Set-Cookie: pma_collation_connection=utf8_unicode_ci; expires=Wed, 18-Jan-2017 01:06:02 GMT; Max-Age=2592000; path=/phpmyadmin/; HttpOnly
+
+[...truncated...]

@@ -1,0 +1,9 @@
+<?php
+session_start();
+if(isset($_SESSION["login"]))
+{
+	$_SESSION["accept"] = "Wylogowano.";
+	unset($_SESSION["login"]);
+}
+header("Location: ./admin.php");
+?>

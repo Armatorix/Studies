@@ -1,0 +1,10 @@
+GET /phpmyadmin/index.php?db=&table=&lang=1&collation_connection=utf8_unicode_ci&token=5f7541e1c8918cb0ac7272576ea440a1 HTTP/1.1
+Host: localhost
+Accept-Encoding: gzip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 SF/2.10b
+Range: bytes=0-399999
+Referer: http://localhost/
+Host: -->">'>'"<sfi000493v676391>
+Cookie: pmaCookieVer=4; phpMyAdmin=2bifmqp86j5114kcbm0m8a93m41pvt94; pma_lang=cs; pma_collation_connection=deleted; pmaPass-1=deleted
+

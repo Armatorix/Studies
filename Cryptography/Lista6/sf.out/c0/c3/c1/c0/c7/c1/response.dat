@@ -1,0 +1,17 @@
+HTTP/1.1 404 Not Found
+Date: Mon, 19 Dec 2016 01:34:24 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 302
+Keep-Alive: timeout=5, max=2
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /phpmyadmin/doc/html/index.php was not found on this server.</p>
+<hr>
+<address>Apache/2.4.18 (Ubuntu) Server at localhost Port 80</address>
+</body></html>

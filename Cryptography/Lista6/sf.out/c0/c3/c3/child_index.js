@@ -1,0 +1,7 @@
+var child = [
+  { 'dupe': false, 'type': 4, 'name': 'codemirror', 'dir': 'c0', 'linked': 2, 'url': 'http://localhost/phpmyadmin/js/codemirror/', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 10, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 8, 'name': 'get_image.js.php', 'dir': 'c1', 'linked': 2, 'url': 'http://localhost/phpmyadmin/js/get_image.js.php', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 2, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 8, 'name': 'get_scripts.js.php', 'dir': 'c2', 'linked': 2, 'url': 'http://localhost/phpmyadmin/js/get_scripts.js.php', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 2, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 8, 'name': 'messages.php', 'dir': 'c3', 'linked': 2, 'url': 'http://localhost/phpmyadmin/js/messages.php', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 5, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 8, 'name': 'whitelist.php', 'dir': 'c4', 'linked': 2, 'url': 'http://localhost/phpmyadmin/js/whitelist.php', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 5, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 }
+];

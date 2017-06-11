@@ -1,0 +1,19 @@
+HTTP/1.1 403 Forbidden
+Date: Mon, 19 Dec 2016 01:12:33 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 318
+Keep-Alive: timeout=5, max=82
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /phpmyadmin/templates/table/search/
+on this server.<br />
+</p>
+<hr>
+<address>Apache/2.4.18 (Ubuntu) Server at localhost Port 80</address>
+</body></html>
