@@ -1,0 +1,4 @@
+read N;
+SUM := 0;
+
+write SUM;
