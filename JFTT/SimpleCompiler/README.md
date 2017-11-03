@@ -1,12 +1,12 @@
-##Compiler of simple imperative language which gramar is present in src/gramatyka.txt
+# Compiler of simple imperative language which gramar is present in src/gramatyka.txt
 
-1. Installation
-2. Requirements
-3. Files description
+1. [Installation](#istallation)
+2. [Requirements](#requirements)
+3. [Files description](#description)
 
 
 
-#1.Installation.
+## 1.Installation.(#installation)
   To compile file type terminal in directory with Makefile in terminal:
 
     make
@@ -36,7 +36,7 @@
 		
 		
 				
-#2. Requirements
+## 2. Requirements(#requirements)
 flex 2.6.0
 bison  3.0.4
 gcc 5.4.0
@@ -45,7 +45,7 @@ Or some newer compatible with them.
 
 
 
-#3. Files description
+## 3. Files description(#description)
 .
 ├── Makefile
 ├── README
