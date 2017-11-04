@@ -63,36 +63,27 @@ Or some newer compatible with them.
 ├── README
 ├── src
 │   ├── command_list.c
-│   │
 │   │   	Part of code responsible for compiler output code.
 │   │
 │   ├── gramatyka.txt
-│   │
 │   │   	Gramar of simple compiler.
 │   │
 │   ├── imp.flex
-│   │
 │   │	  	Flex scanner file.
 │   │
 │   ├── imp.y
-│   │
 │   │		Bison file that analyze code.
 │   │
-│   │
 │   ├── jump_list.c
-│   │
 │   │		Part of code responsible for complete jumps.
 │   │
 │   ├── registers.c
-│   │
 │   │		Dumb register handler.
 │   │
 │   ├── variable_list.c
-│   │
 │   │		Part of code responsible for finding, initializing and declaring variables.
 │   └
 ├── test
-│   │
 │   │		Folder for tests and programs.
 │   │
 │   ├── program0.imp
