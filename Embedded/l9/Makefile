@@ -1,4 +1,4 @@
-	all:
+all:
 	make analize
 	make testbench
 analize:
