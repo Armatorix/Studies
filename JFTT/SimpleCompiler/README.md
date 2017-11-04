@@ -1,42 +1,47 @@
 # Compiler of simple imperative language which gramar is present in src/gramatyka.txt
 
-1. [Installation](#istallation)
+1. [Installation](#installation)
 2. [Requirements](#requirements)
-3. [Files description](#description)
+3. [Files description](#files-description)
 
+## Installation
+To compile file type terminal in directory with Makefile in terminal:
 
-
-## 1.Installation.(#installation)
-  To compile file type terminal in directory with Makefile in terminal:
-
-    make
-
-
-  To run your program in this language with cln library interpreter type in directory with Makefile in terminal:
-
-    make tester_cln SRC=src_to_program/program.imp
-
-      Example:
-        make tester_cln SRC = test/program0.imp
-        //It will compile program0.imp and run it with interpreter-cln
-  To test your program in this language without cln library interpreter type in directory with Makefile in terminal:
-		
-    make tester SRC=src_to_program/program_name.imp
+	make
 	
-      Example:
-        make tester SRC = test/program0.imp
-        //It will compile program0.imp and run it with interpreter
-  To test program which is named programNO.imp and is in directory test type in directory with Makefile in terminal:
+To run your program in this language with cln library interpreter type in directory with Makefile in terminal:
+
+	make tester_cln SRC=src_to_program/program.imp
+
+Example:
+
+	make tester_cln SRC = test/program0.imp
 	
-    make mytest NO=program_no
+It will compile program0.imp and run it with interpreter-cln
+
+To test your program in this language without cln library interpreter type in directory with Makefile in terminal:
+
+	make tester SRC=src_to_program/program_name.imp
+	
+Example:
+
+	make tester SRC = test/program0.imp
+
+//It will compile program0.imp and run it with interpreter
+  
+To test program which is named programNO.imp and is in directory test type in directory with Makefile in terminal:
+
+	make mytest NO=program_no
     
-      Example:
-        make mytest NO=1
-        //It will compile program1.imp from test directory and run it with interpreter-cln
+Example:
+	
+	make mytest NO=1
+
+//It will compile program1.imp from test directory and run it with interpreter-cln
 		
 		
 				
-## 2. Requirements(#requirements)
+## Requirements
 flex 2.6.0
 bison  3.0.4
 gcc 5.4.0
@@ -45,7 +50,8 @@ Or some newer compatible with them.
 
 
 
-## 3. Files description(#description)
+## Files description
+```
 .
 ├── Makefile
 ├── README
@@ -92,4 +98,4 @@ Or some newer compatible with them.
 │   ├── program6.imp
 │   └── program7.imp
 └── tests.ods
-
+```
