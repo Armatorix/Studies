@@ -1,47 +1,52 @@
 # Compiler of simple imperative language which gramar is present in src/gramatyka.txt
 
-1. [Installation](#installation)
+1. [Using](#using)
+ * [Installation](#installation)
+ * [Compiling programs](#compiling-programs)
 2. [Requirements](#requirements)
 3. [Files description](#files-description)
 
-## Installation
-To compile file type terminal in directory with Makefile in terminal:
+## Using
+### Installation:
 
 	make
-	
-To run your program in this language with cln library interpreter type in directory with Makefile in terminal:
+
+### Compiling  programs
+
+#### To run your program in this language WITH cln library interpreter:
 
 	make tester_cln SRC=src_to_program/program.imp
 
-Example:
+##### Example:
 
 	make tester_cln SRC = test/program0.imp
 	
 It will compile program0.imp and run it with interpreter-cln
 
-To test your program in this language without cln library interpreter type in directory with Makefile in terminal:
+#### To test your program in this language WITHOUT cln library interpreter:
 
 	make tester SRC=src_to_program/program_name.imp
 	
-Example:
+##### Example:
 
 	make tester SRC = test/program0.imp
 
-//It will compile program0.imp and run it with interpreter
+It will compile program0.imp and run it with interpreter
   
-To test program which is named programNO.imp and is in directory test type in directory with Makefile in terminal:
+#### To test program which is named programX.imp and is in `test` directory:
 
-	make mytest NO=program_no
+	make mytest NO=X
     
-Example:
+##### Example:
 	
 	make mytest NO=1
 
-//It will compile program1.imp from test directory and run it with interpreter-cln
+It will compile program1.imp from test directory and run it with interpreter-cln
 		
 		
 				
 ## Requirements
+
 flex 2.6.0
 bison  3.0.4
 gcc 5.4.0
