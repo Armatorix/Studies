@@ -1,4 +1,5 @@
-# Compiler of simple imperative language which gramar is present in src/gramatyka.txt
+# Compiler of simple imperative language 
+gramar is present in src/gramatyka.txt
 
 1. [Using](#using)
  * [Installation](#installation)
@@ -11,7 +12,7 @@
 
 	make
 
-### Compiling  programs
+### Compiling programs
 
 #### To run your program in this language WITH cln library interpreter:
 
