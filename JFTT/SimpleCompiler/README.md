@@ -1,13 +1,13 @@
 # Compiler of simple imperative language 
 gramar is present in src/gramatyka.txt
 
-1. [Using](#using)
+1. [Usage](#usage)
  * [Installation](#installation)
  * [Compiling programs](#compiling-programs)
 2. [Requirements](#requirements)
 3. [Files description](#files-description)
 
-## Using
+## Usage
 ### Installation:
 
 	make
