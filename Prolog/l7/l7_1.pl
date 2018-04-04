@@ -1,3 +1,5 @@
+%it's not using corutins
+
 merge(IN1, IN2, OUT2) :-
 	(   IN1=[] -> (IN2 = [H2|R2], OUT2 = [H2|OUT], merge([],R2,[OUT]))
 	;   (IN2=[] -> (IN1 = [H1|R1], OUT2 = [H1|OUT],merge([],R1,[OUT])))
