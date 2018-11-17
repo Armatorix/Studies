@@ -1,3 +1,4 @@
+```
 program       -> VAR vdeclarations BEGIN commands END
 
 vdeclarations -> vdeclarations pidentifier
@@ -37,3 +38,4 @@ identifier  -> pidentifier
              | pidentifier[pidentifier]
              | pidentifier[num]
 
+```
